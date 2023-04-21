@@ -29,7 +29,7 @@ The dataset includes three classes for readmission, which were simplified into a
 I developed and evaluated several machine learning models, including Random Forest, SVC (Support Vector Classifier), LightGBM & CatBoost (Gradient Boosting), and Recurrent Neural Network (RNN) on their accuracy, precision, recall, and f-1 scores.
 
 ## Results
-### Model's Performance
+### Models' Performance
 <img src="https://user-images.githubusercontent.com/63984796/233452981-cdf0a7cd-853c-496a-8069-cbe771d10d4a.png" alt="Undersampling" width="850" align="center"/>
 After training, tuning, and evaluation, all models achieved similar metrics, indicating that I have likely extracted the maximum amount of information from the dataset. Interestingly, the simple random forest model achieved the same accuracy as the more complex LGBM and Catboost models, but achieved a higher target F-1 score. Given the task of predicting the likelihood of readmission within 30 days of initial discharge for diabetes patients, I prioritized minimizing false negative errors over false positive errors. Therefore, I chose the random forest model for further feature analysis.  
 ### Feature Importances
