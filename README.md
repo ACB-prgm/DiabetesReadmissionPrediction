@@ -53,25 +53,6 @@ The machine learning model's real-time risk assessment capabilities can enable h
 ## Conclusion
 In conclusion, hospital readmissions within 30 days of discharge negatively impact patient outcomes, decrease profits through Medicare's Hospital Readmissions Reduction Program (HRRP), increase healthcare costs, and strain healthcare system capacity. Our machine learning model provides healthcare providers with a valuable tool to address these challenges by identifying high-risk patients and enabling the development of informed care and discharge plans. By leveraging the model's predictive capabilities, healthcare providers can improve patient outcomes, reduce healthcare costs, and optimize resource allocation, ultimately improving the quality of care for diabetes patients.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Sources
 
 [1] Clore,John, Cios,Krzysztof, DeShazo,Jon & Strack,Beata. (2014). Diabetes 130-US hospitals for years 1999-2008. UCI Machine Learning Repository. https://doi.org/10.24432/C5230J.
