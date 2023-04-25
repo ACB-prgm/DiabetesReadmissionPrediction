@@ -1,4 +1,4 @@
-# Hospital Readmission Prediction
+# Predicting Hospital Readmissions Using Machine Learning
 
 ### Repository Navigation
 [Notebook](https://github.com/ACB-prgm/HospitalReadmissionPrediction/blob/main/base.ipynb) • [Data](https://github.com/ACB-prgm/HospitalReadmissionPrediction/tree/main/dataset_diabetes) • [Presentation](https://github.com/ACB-prgm/HospitalReadmissionPrediction/blob/main/Presentation/Presentation.pdf)
