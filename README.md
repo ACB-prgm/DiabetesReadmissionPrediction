@@ -88,6 +88,8 @@ pip3.10 install -r requirements.txt
 
 7. Run the cells in the notebook to reproduce the results of the project.
 
+The data in the dataset_diabetes directory has not been modified from the original downloaded from the UCI ML repo, but you may download the data directly from the link in sources below if you would like. You can replace the directory with the download without change any file names and the paths will work as expected.
+
 ## Sources
 
 [1] Clore,John, Cios,Krzysztof, DeShazo,Jon & Strack,Beata. (2014). Diabetes 130-US hospitals for years 1999-2008. UCI Machine Learning Repository. https://doi.org/10.24432/C5230J.
