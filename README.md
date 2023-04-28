@@ -53,6 +53,36 @@ The machine learning model's real-time risk assessment capabilities can enable h
 ## Conclusion
 In conclusion, hospital readmissions within 30 days of discharge negatively impact patient outcomes, decrease profits through Medicare's Hospital Readmissions Reduction Program (HRRP), increase healthcare costs, and strain healthcare system capacity. Our machine learning model provides healthcare providers with a valuable tool to address these challenges by identifying high-risk patients and enabling the development of informed care and discharge plans. By leveraging the model's predictive capabilities, healthcare providers can improve patient outcomes, reduce healthcare costs, and optimize resource allocation, ultimately improving the quality of care for diabetes patients.
 
+## Reproducibility
+To reproduce this project, follow these steps:
+
+1. Clone the project repository or download the project files from GitHub.
+
+2. Install Python 3.10 on your local machine, if it is not already installed. (I used 3.10.11 specifically)
+
+3. Create a new virtual environment using the venv module in Python. For example, in your terminal or command prompt, navigate to the project directory and run the following command:
+```
+python3.10 -m venv myenv
+```
+
+4. Activate the virtual environment by running the following command:
+```
+source myenv/bin/activate
+```
+On Windows, the command is:
+```
+myenv\Scripts\activate.bat
+```
+
+5. Install the required Python packages and their dependencies listed in the requirements.txt file by running the following command:
+```
+pip3.10 install -r requirements.txt
+```
+
+6. Launch Jupyter Notebook and select 'myenv' as the kernel.
+
+7. Run the cells in the notebook to reproduce the results of the project.
+
 ## Sources
 
 [1] Clore,John, Cios,Krzysztof, DeShazo,Jon & Strack,Beata. (2014). Diabetes 130-US hospitals for years 1999-2008. UCI Machine Learning Repository. https://doi.org/10.24432/C5230J.
